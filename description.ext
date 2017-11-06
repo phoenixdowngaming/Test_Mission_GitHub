@@ -1,0 +1,16 @@
+respawn = 3;
+respawndelay = 15;
+disabledAI = true;
+enableDebugConsole = 1;
+allowFunctionsLog = 0;
+
+loadScreen="";
+author = "PDG Xian";
+onLoadName = Test Mission;
+
+class Header
+{
+	gameType = CTI;
+	minPlayers = 1;
+	maxPlayers = 41;
+};
